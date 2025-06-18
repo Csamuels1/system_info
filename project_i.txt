@@ -1,0 +1,2 @@
+collect email from Users
+store correctly
